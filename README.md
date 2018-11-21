@@ -1,1 +1,1 @@
-# DickIII.github.io
+This is Rick's new github webthingy.
